@@ -17,3 +17,18 @@
 ### Решение задачи по нагрузке локального API с помощью JMeter, [смотреть здесь](https://youtu.be/kDS2VqSwLDk) 
 
 ---
+
+# REST API Testing in JMeter
+
+## On the example of the site https://reqres.in/
+
+How to create REST API Request in JMeter GET, POST, PUT, DELETE 
+Step 1 : Rt click on Test Plan ＞ Add ＞ Threads (Users) ＞ Thread Group
+Step 2 : Rt click on Thread Group ＞ Add ＞ Sampler ＞ HTTP Request
+Step 3 : Add the API data in HTTP Request sampler
+Step 4 : Add View Results Tree Listener
+Step 5 : Add View Results in Table Listener
+Step 6 : Save the test plan
+Step 7 : Run and check results
+
+### Solving the task of loading a local API using JMeter, [look here](https://youtu.be/ZOU-bhTPgL8)
