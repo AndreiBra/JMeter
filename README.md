@@ -47,4 +47,4 @@
 * 5. Add Assertions
 * 6. RUN and check results
 
-### Solving the task of loading, a SOAP API RequestI using JMeter, [look here](https://youtu.be/bS4xB_OKiO4)
+### Solving the task of loading, a SOAP API RequestI using JMeter, [look here](https://youtu.be/Ht1yYvSAYpI)
