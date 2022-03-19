@@ -40,11 +40,11 @@
 
 ## Create a SOAP API Request, on the example of the site http://www.dneonline.com/calculator.asmx
 
-* 1. Add Request Sampler
-* 2. Add Headers
-* 3. Add Autorization
-* 4. Add Body
-* 5. Add Assertions
-* 6. RUN and check results
+* 1 Add Request Sampler
+* 2 Add Headers
+* 3 Add Autorization
+* 4 Add Body
+* 5 Add Assertions
+* 6 RUN and check results
 
 ### Solving the task of loading, a SOAP API RequestI using JMeter, [look here](https://youtu.be/Ht1yYvSAYpI)
