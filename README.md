@@ -1,6 +1,5 @@
 # Задача по загрузке локального API (GET, PUT, POST, DELETE)  с использованием базы данных MySQL.
 
-
 1.  Установить MySQL Workbench
 2.  Установить JMeter
 3.  Связать MySQL and JMeter
