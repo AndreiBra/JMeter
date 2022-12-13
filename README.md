@@ -31,7 +31,7 @@
 * Step 6 : Save the test plan
 * Step 7 : Run and check results
 
-### Solving the task of loading a local API using JMeter, [look here](https://youtu.be/ZOU-bhTPgL8)
+### Solving the task of loading a REST API using JMeter, [look here](https://youtu.be/ZOU-bhTPgL8)
 
 ---
 
